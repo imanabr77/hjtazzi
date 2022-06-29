@@ -5,10 +5,11 @@
 ![focus](https://img.shields.io/badge/focus-fullStackWebDeveloper-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
-<a href="https://github.com/hjtazzi%22%3E
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjtazzi&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
-<a href="https://github.com/hjtazzi%22%3E
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjtazzi&theme=nord" />
+<a href="https://github.com/hjtazzi%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjtazzi&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
+</a>
+<a href="https://github.com/hjtazzi%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjtazzi&theme=nord" />
 </a>
 
 <!--
