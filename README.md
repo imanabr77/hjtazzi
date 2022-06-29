@@ -1,6 +1,6 @@
 <div align="center">
 <samp><h1> Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hojjat</h1></samp>
-[4:01 PM]
+
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-fullStackWebDeveloper-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
