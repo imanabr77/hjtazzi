@@ -1,14 +1,23 @@
 <div align="center">
-<samp><h1> Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hojjat</h1></samp>
+<samp>
+  <h1> Hi there 
+    <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" 
+      class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+      style="display: block; opacity: 1;">
+    , I'm Hojjat</h1>
+</samp>
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-fullStackWebDeveloper-brightgreen)
-![living](https://img.shields.io/badge/living-IranTehran-3c9)
+![living](https://img.shields.io/badge/living-iranTehran-3c9)
 
+<!---
 <a href="https://github.com/hjtazzi%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjtazzi&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
 </a>
-<a href="https://github.com/hjtazzi%22%3E">
+-->
+
+<a href="https://github.com/hjtazzi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjtazzi&theme=nord" />
 </a>
 
@@ -17,10 +26,12 @@
 [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png%22/%3E](https://t.me/Imhshahdi)
 -->
 
+<br />
 <samp>View Count</samp>
 <br />
 <img src="https://profile-counter.glitch.me/%7Bhjtazzi%7D/count.svg" alt="visitor count" />
-  </div>
+
+</div>
 
 <!--
 **hjtazzi/hjtazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
